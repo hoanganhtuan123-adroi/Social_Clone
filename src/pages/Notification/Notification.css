@@ -1,0 +1,4 @@
+.notification {
+    display: grid;
+    grid-template-columns: 18rem auto;
+}
